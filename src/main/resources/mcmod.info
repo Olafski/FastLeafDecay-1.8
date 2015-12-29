@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fastleafdecay",
+  "name": "Fast Leaf Decay",
+  "description": "Increases leaf decay rates.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://minecraft.curseforge.com/projects/fastleafdecay",
+  "updateUrl": "",
+  "authorList": ["Olafski"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
