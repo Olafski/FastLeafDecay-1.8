@@ -20,9 +20,9 @@ plugins {
     id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
 
-version = "1.8-1.5"
+version = "1.8-1.6"
 group= "com.olafski.fastleafdecay" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "fastleafdecay"
+archivesBaseName = "FastLeafDecay"
 
 jar {
     manifest {
